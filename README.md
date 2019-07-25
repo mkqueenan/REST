@@ -1,7 +1,7 @@
 # REST
 Creating a RESTful API with Node.js, Express, and MongoDB
 
-Playing with a RESTful API using Node.js, Express, and MongoDB with a little help from mongoose and MongoDB Cloud.
+Playing with Node.js, Express, MongoDB, and a little help from mongoose and MongoDB Cloud.
 
 RESTful APIs are useful as it provides loose coupling--changes to a component will, ideally, not affect the operation of other components.
 
